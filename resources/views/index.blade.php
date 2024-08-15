@@ -214,6 +214,107 @@
                 </div>
             </div>
         </section>
+        
     </main>
+
+    <footer>
+        <div class="container mx-auto text-center sm:text-left">
+            <div class="sm:flex justify-around text-white">
+                <div>
+                    <h2 class="text-xl sm:text-2xl mb-5"> My Account </h2>
+                    <ul class="leading-10">
+                        <li>
+                            <a href="#"> Creator Dashboard </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> Wallet </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> Create Item </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> My Account </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h2 class="text-xl sm:text-2xl mb-5"> Web Links </h2>
+                    <ul class="leading-10">
+                        <li>
+                            <a href="#"> Collections </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> Item Details </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> Rankings </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> User Profile </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h2 class="text-xl sm:text-2xl mb-5"> Community </h2>
+                    <ul class="leading-10">
+                        <li>
+                            <a href="#"> Blog Category </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> Blog Autor </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> Blog </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> Blog Details </a>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h2 class="text-xl sm:text-2xl mb-5"> Contact </h2>
+                    <ul class="leading-10">
+                        <li>
+                            <a href="#"> David Dem, P.O. 1334 Road, Côte d'Ivoire </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> BD Author </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> dem@gmail.com </a>
+                        </li>
+
+                        <li>
+                            <a href="#"> Phone: 225 0555736487 </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <hr class="my-16">
+
+            <div class="text-white sm:flex justify-between mb-20">
+                <p>
+                    &copy; Copyright - 2023 - Designed by <span class="text-green-700"> Programming David Dem - Copyright </span>
+                </p>
+
+                <p> Privacy Policy | Term of Services </p>
+            </div>
+        </div>
+    </footer>
 
 @endsection
